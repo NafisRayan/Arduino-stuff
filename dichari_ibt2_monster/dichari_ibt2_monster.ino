@@ -28,7 +28,7 @@ const int Lpwm3M =11;
 const int Rpwm4M =12;
 const int Lpwm4M =13;
 
-//Arduino Mega don't have any more pins I guess :")
+//Arduino Mega don't have any more pins I guess but still :")
 const int Rpwm5M =14;
 const int Lpwm5M =15;
 const int Rpwm6M =16;
