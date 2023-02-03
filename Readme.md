@@ -1,5 +1,6 @@
 
 <img src="dichari_ibt2_monster/with arm.png" alt="Alt text" title="Optional title">
+<img src="dichari_ibt2_monster/arm_label1.png" alt="Alt text" title="Optional title">
 
 1) ***In horizontal circular rotation right function, the Rpwm1M variable lets the arm move in the right direction and in horizontal circular rotation left function, the Lpwm1M variable lets the arm move in the left direction.***
 2) ***In front back actuator front function, the Rpwm2M variable lets the arm move in the front and in front back actuator back function, the Lpwm2M variable lets the arm move in the back***
